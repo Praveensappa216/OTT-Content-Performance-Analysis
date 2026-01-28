@@ -1,6 +1,3 @@
-# OTT-Content-Performance-Analysis
-End-to-end OTT Content Performance Analysis using SQLite, SQL queries, Excel, and Power BI.  The project analyzes titles by genre, country, ratings, duration, and release trends with interactive dashboards.
-
 # 📊 OTT Content Performance Analysis
 
 An end-to-end **Data Analytics project** focused on analyzing OTT platform content using **SQLite, SQL, Excel, and Power BI**.  
@@ -73,22 +70,26 @@ SELECT release_year, COUNT(*) AS total_titles
 FROM ott_content
 GROUP BY release_year
 ORDER BY release_year;
-
+---
 ## POWER BI DASHBOARDS
 
 PAGE1
 
-"D:\OTT Content Performance & Trend Analysis\screenshots\OTT CONTENT OVERVIEW.jpeg"
+![OTT CONTENT OVERVIEW](https://github.com/user-attachments/assets/22947607-b3c0-467f-9439-f9cf5d105796)
+
 
 PAGE2
 
-"D:\OTT Content Performance & Trend Analysis\screenshots\GENRE ANALYSIS.jpeg"
+![GENRE ANALYSIS](https://github.com/user-attachments/assets/ba11b7ed-8a85-46d9-b38e-6e8150fa4ae1)
+
 
 PAGE3
 
-"D:\OTT Content Performance & Trend Analysis\screenshots\Country Analysis.jpeg"
+![Country Analysis](https://github.com/user-attachments/assets/6b57b9a9-61a5-4833-91ec-504d54d99df3)
+
 
 PAGE4
 
-"D:\OTT Content Performance & Trend Analysis\screenshots\YEAR-WISE TREND.jpeg"
+![YEAR-WISE TREND](https://github.com/user-attachments/assets/e5431f3e-b412-4a18-b051-f0b1d1926327)
+
 
