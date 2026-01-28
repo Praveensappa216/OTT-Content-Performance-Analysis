@@ -71,25 +71,5 @@ FROM ott_content
 GROUP BY release_year
 ORDER BY release_year;
 ---
-## POWER BI DASHBOARDS
-
-PAGE1
-
-![OTT CONTENT OVERVIEW](https://github.com/user-attachments/assets/22947607-b3c0-467f-9439-f9cf5d105796)
-
-
-PAGE2
-
-![GENRE ANALYSIS](https://github.com/user-attachments/assets/ba11b7ed-8a85-46d9-b38e-6e8150fa4ae1)
-
-
-PAGE3
-
-![Country Analysis](https://github.com/user-attachments/assets/6b57b9a9-61a5-4833-91ec-504d54d99df3)
-
-
-PAGE4
-
-![YEAR-WISE TREND](https://github.com/user-attachments/assets/e5431f3e-b412-4a18-b051-f0b1d1926327)
 
 
